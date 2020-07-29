@@ -1,0 +1,25 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "activity module 9. Showing us how to use npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinacez/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio-generator"
+  ],
+  "author": "carolina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carolinacez/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/carolinacez/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
